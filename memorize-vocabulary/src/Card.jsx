@@ -33,7 +33,7 @@ function Card () {
     <div>
       <h3>{VOCABULARY_SAMPLE[0].word}</h3>
       <p>How to pronounce: <span>{VOCABULARY_SAMPLE[0].phonetics}</span></p>
-      <p>Defination: {VOCABULARY_SAMPLE[0].defination</p>
+      <p>Defination: {VOCABULARY_SAMPLE[0].defination}</p>
     
     </div>
   )
