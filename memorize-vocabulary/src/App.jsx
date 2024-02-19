@@ -1,13 +1,14 @@
 
-import Card from "./Card.jsx/"
+import Cards from "./Cards.jsx"
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    return <>
-      <Card></Card>
+     <>
+      <Cards></Cards>
     
     </>
+  )
 }
 
 export default App
