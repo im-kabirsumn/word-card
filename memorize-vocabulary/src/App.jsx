@@ -1,14 +1,15 @@
 
-import Cards from "./Cards.jsx"
+import Cards from "./Cards.jsx";
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
-     <>
+    <>
+      <h1>Hi</h1>
       <Cards></Cards>
-    
+
     </>
-  )
+  );
 }
 
-export default App
+export default App;
